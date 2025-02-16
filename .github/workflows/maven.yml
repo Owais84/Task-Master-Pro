@@ -1,6 +1,6 @@
 
 
-name: CDCD 
+name: CICD
 
 on:
   push:
