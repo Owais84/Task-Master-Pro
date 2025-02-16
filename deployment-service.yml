@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: taskmaster
-          image: owaiskhan84/taskmaster:latest
+          image: owaiskhan84/devtaskmaster:latest
           imagePullPolicy: Always
           ports:
             - containerPort: 8080
